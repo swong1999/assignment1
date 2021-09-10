@@ -21,3 +21,15 @@ h1{
 .urlSize{
     font: bold 36px Arial, Helvetica, sans-serif;
 }
+
+.rSize{
+    font: bold 20px Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+a:link{
+    text-decoration: none;
+}
