@@ -1,0 +1,26 @@
+.box-2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+.container{
+    text-align:center;
+}
+
+html{
+    background-image: url(jungle.png);
+}
+
+h1{
+    color:rgb(68, 40, 2);
+    font: bold 60px Arial, Helvetica, sans-serif;
+}
+
+.pMargin{
+    margin-left: 30em;
+    margin-right: 30em;
+    font: bold 20px Arial, Helvetica, sans-serif;
+    color:black;
+}
